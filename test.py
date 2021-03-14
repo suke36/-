@@ -1,9 +1,6 @@
 
 import requests
 from bs4 import BeautifulSoup
-import chardet
-
-
 
 target_url="https://azurlane.wikiru.jp/index.php?%A5%AD%A5%E3%A5%E9%A5%AF%A5%BF%A1%BC%A5%EA%A5%B9%A5%C8"
 
